@@ -1,0 +1,28 @@
+@font-face {
+  font-family: NotoNaskhArabic;
+  src: url(../fonts/NotoNaskhArabic-Regular.ttf);
+}
+@font-face {
+  font-family: rubik;
+  src: url(../fonts/Rubik-Italic.ttf);
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: rubik;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 2.5rem;
+}
+
+p {
+  font-family: NotoNaskhArabic;
+  font-size: 2rem;
+}/*# sourceMappingURL=utilities.css.map */
